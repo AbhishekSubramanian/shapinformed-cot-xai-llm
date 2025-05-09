@@ -18,7 +18,7 @@ This project investigates **explainable NLP** by leveraging SHAP (SHapley Additi
 ## 🧪 Project Overview
 
 - **Dataset**: [e-SNLI](https://huggingface.co/datasets/esnli/esnli) – SNLI with human-annotated justifications.
-- **Model**: `llama-3-8b` accessed via Together AI.
+- **Model**: `llama-3-8b` accessed via Hugging Face.
 - **Strategies Compared**:
   - 🧱 **Baseline** – Direct LLaMA-3 predictions with vanilla prompts.
   - 🔍 **SHAP-Informed** – Explanations guided by SHAP feature importance.
