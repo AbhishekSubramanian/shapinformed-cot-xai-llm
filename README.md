@@ -43,6 +43,5 @@ This project investigates **explainable NLP** by leveraging SHAP (SHapley Additi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ArnaVin/NLP-Final-Project.git
-   cd NLP-Final-Project
-# NLP-Final-Project
+   git clone https://github.com/AbhishekSubramanian/shapinformed-cot-xai-llm.git
+   cd shapinformed-cot-xai-llm
